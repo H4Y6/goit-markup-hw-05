@@ -445,6 +445,7 @@ address{
   border-radius: 50%;
   fill: var(--c-color) ;
   background: var(--c6-color);
+  transition: background-color var(--transition);
 }
 
 /* footer final */
